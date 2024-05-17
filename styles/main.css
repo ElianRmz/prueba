@@ -1,0 +1,18 @@
+.seccion_perfil{
+    border: 2px solid black; 
+    border-radius: 10px;
+}
+.foto_perfil{
+    border-radius: 50px;
+    margin-left: 100px;
+}
+.div_de_cuadro{
+    background-color: rgb(203, 33, 79);
+    border-radius: 10px;
+}
+div{
+    font-family: "Courier New";
+}
+li{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
