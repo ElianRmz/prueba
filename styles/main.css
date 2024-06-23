@@ -4,15 +4,29 @@
 }
 .foto_perfil{
     border-radius: 50px;
-    margin-left: 100px;
+
+    
 }
 .div_de_cuadro{
     background-color: rgb(203, 33, 79);
     border-radius: 10px;
+    margin-right: 20%;
+    margin-left: 20%;
 }
 div{
     font-family: "Courier New";
 }
 li{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Courier New', sans-serif;
+    text-align: center;
+    background-color: #f0f0f0; /* Color de fondo para visibilidad */
+    flex-direction: column; /* Para asegurar que los elementos se apilen verticalmente */
 }
